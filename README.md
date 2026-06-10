@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0217-contains-duplicate) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/2942-find-words-containing-character) |
 ## Hash Table
@@ -13,6 +14,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0217-contains-duplicate) |
 | [0771-jewels-and-stones](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0771-jewels-and-stones) |
 ## Math
 |  |
@@ -30,4 +32,8 @@
 |  |
 | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/2011-final-value-of-variable-after-performing-operations) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
