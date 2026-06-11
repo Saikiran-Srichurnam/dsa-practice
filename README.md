@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/2942-find-words-containing-character) |
 ## Hash Table
@@ -18,6 +19,7 @@
 | [0049-group-anagrams](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0771-jewels-and-stones](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0771-jewels-and-stones) |
 ## Math
 |  |
@@ -43,4 +45,25 @@
 | [0049-group-anagrams](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0347-top-k-frequent-elements) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
