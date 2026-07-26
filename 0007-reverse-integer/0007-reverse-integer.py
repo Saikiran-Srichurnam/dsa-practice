@@ -1,18 +1,25 @@
 class Solution:
     def reverse(self, x: int) -> int:
-        a = str(x)
-        b = ""
+        Max_Int = 2**31 - 1
+        Min_Int = -2**31
 
-        if x < 0:
-            b = "-"
-            for i in range(len(a)-1, 0, -1):
-                b += a[i]
-        else:
-            for i in range(len(a)-1, -1, -1):
-                b += a[i]
+        # if x < 0: sign = -1 else sign = 1
+        sign = -1 if x < 0 else 1 
+        x = abs(x)
 
-        ans = int(b)
-        if ans < -2147483648 or ans > 2147483647:
+        rev = 0
+
+        while x != 0:
+            digit = x % 10
+            rev = rev * 10 + digit 
+            x = x // 10
+
+        # multiplying the reverse with sign
+        rev = rev * sign 
+
+        if rev > Max_Int or rev < Min_Int:
             return 0
+        
+        return rev
 
-        return ans
+
