@@ -42,6 +42,7 @@
 | [0007-reverse-integer](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0013-roman-to-integer) |
+| [0231-power-of-two](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0231-power-of-two) |
 ## String
 |  |
 | ------- |
@@ -150,4 +151,12 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0912-sort-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
