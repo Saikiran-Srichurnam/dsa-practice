@@ -20,6 +20,7 @@
 | [0238-product-of-array-except-self](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0704-binary-search) |
+| [0912-sort-an-array](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0912-sort-an-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/2942-find-words-containing-character) |
 ## Hash Table
@@ -65,18 +66,22 @@
 | [0217-contains-duplicate](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0912-sort-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -133,4 +138,16 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
