@@ -18,6 +18,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0485-max-consecutive-ones) |
@@ -36,6 +37,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0771-jewels-and-stones](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0771-jewels-and-stones) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/1796-second-largest-digit-in-a-string) |
@@ -46,6 +48,7 @@
 | [0009-palindrome-number](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -71,6 +74,7 @@
 | [0049-group-anagrams](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0912-sort-an-array) |
 ## Divide and Conquer
@@ -124,6 +128,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0704-binary-search) |
 ## Greedy
 |  |
@@ -162,6 +167,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
