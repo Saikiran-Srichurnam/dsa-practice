@@ -174,4 +174,12 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0231-power-of-two) |
+## Linked List
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0707-design-linked-list) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
