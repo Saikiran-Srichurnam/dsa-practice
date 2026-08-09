@@ -44,6 +44,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0771-jewels-and-stones](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0771-jewels-and-stones) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/1796-second-largest-digit-in-a-string) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
 | ------- |
@@ -68,6 +69,7 @@
 | [1796-second-largest-digit-in-a-string](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/1796-second-largest-digit-in-a-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/2942-find-words-containing-character) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Simulation
 |  |
 | ------- |
@@ -101,6 +103,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0347-top-k-frequent-elements) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Quickselect
 |  |
 | ------- |
