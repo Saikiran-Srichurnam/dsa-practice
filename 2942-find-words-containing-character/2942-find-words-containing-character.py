@@ -4,6 +4,5 @@ class Solution:
         for i in range(len(words)):
             if x in words[i]:
                 res.append(i)
-            else:
-                res
+
         return res
