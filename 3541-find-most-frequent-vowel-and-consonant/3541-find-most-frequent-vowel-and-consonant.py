@@ -15,13 +15,7 @@ class Solution:
                 else:
                     cFreq[ch] = 1
 
-        maxVFreq = 0
-        for value in vFreq.values():
-            maxVFreq = max(vFreq.values())
+        maxVFreq = max(vFreq.values(), default=0)
+        maxCFreq = max(cFreq.values(), default=0)
 
-        maxCFreq = 0
-        for values in cFreq.values():
-            maxCFreq = max(cFreq.values())
-
-        total = maxCFreq + maxVFreq
-        return total
+        return maxVFreq + maxCFreq
