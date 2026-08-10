@@ -64,6 +64,7 @@
 | [0125-valid-palindrome](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0541-reverse-string-ii) |
 | [0771-jewels-and-stones](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/1108-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -139,6 +140,7 @@
 | [0234-palindrome-linked-list](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0541-reverse-string-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
 |  |
