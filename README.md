@@ -66,6 +66,7 @@
 | [0344-reverse-string](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0344-reverse-string) |
 | [0771-jewels-and-stones](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/1108-defanging-an-ip-address) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/1796-second-largest-digit-in-a-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/2942-find-words-containing-character) |
@@ -103,6 +104,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0347-top-k-frequent-elements) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/1221-split-a-string-in-balanced-strings) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Quickselect
 |  |
@@ -148,6 +150,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0011-container-with-most-water) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Dynamic Programming
 |  |
 | ------- |
