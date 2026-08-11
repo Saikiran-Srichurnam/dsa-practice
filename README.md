@@ -54,6 +54,7 @@
 | [0013-roman-to-integer](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0268-missing-number) |
+| [1903-largest-odd-number-in-string](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/1903-largest-odd-number-in-string) |
 ## String
 |  |
 | ------- |
@@ -69,6 +70,7 @@
 | [1108-defanging-an-ip-address](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/1108-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/1796-second-largest-digit-in-a-string) |
+| [1903-largest-odd-number-in-string](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/1903-largest-odd-number-in-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/2942-find-words-containing-character) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -153,6 +155,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0011-container-with-most-water) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1903-largest-odd-number-in-string](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/1903-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
