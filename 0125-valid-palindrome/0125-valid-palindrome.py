@@ -1,27 +1,23 @@
 class Solution:
     def isPalindrome(self, s: str) -> bool:
-        if s == "":
-            print(True)
+        x = ""
+        if s == " ":
+            return True
         else:
-            newStr = ""
             for ch in s:
                 if ch.isalnum():
-                    newStr += ch.lower()
-                    
-            left = 0
-            right = len(newStr) - 1
-            isPalindrome = True
+                    x += ch.lower()  
 
-            while left < right:
-                if newStr[left] != newStr[right]:
-                    isPalindrome = False
-                    return isPalindrome
-                left += 1
-                right -= 1
-                
-            if isPalindrome:
-               return isPalindrome
-            else:
-                return isPalindrome
-                        
+            is_palindrome = True
+
+            i = 0
+            j = len(x)-1
+            while i < j:
+                if x[i] != x[j]:
+                    is_palindrome = False
+                    return is_palindrome
+                i += 1
+                j -= 1
+            
+            return is_palindrome
                     
