@@ -45,6 +45,7 @@
 | [0268-missing-number](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0771-jewels-and-stones](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0771-jewels-and-stones) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/1796-second-largest-digit-in-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Math
@@ -75,6 +76,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1108-defanging-an-ip-address](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/1108-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/1796-second-largest-digit-in-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/1903-largest-odd-number-in-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -114,6 +116,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Quickselect
 |  |
