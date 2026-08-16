@@ -71,6 +71,7 @@
 | [0205-isomorphic-strings](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0344-reverse-string) |
+| [0394-decode-string](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0394-decode-string) |
 | [0541-reverse-string-ii](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0541-reverse-string-ii) |
 | [0771-jewels-and-stones](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0771-jewels-and-stones) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -177,6 +178,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0394-decode-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Monotonic Stack
 |  |
@@ -214,6 +216,7 @@
 | [0206-reverse-linked-list](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0394-decode-string) |
 ## Linked List
 |  |
 | ------- |
