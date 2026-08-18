@@ -44,6 +44,7 @@
 | [0242-valid-anagram](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0347-top-k-frequent-elements) |
+| [0767-reorganize-string](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0767-reorganize-string) |
 | [0771-jewels-and-stones](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0771-jewels-and-stones) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/1796-second-largest-digit-in-a-string) |
@@ -74,6 +75,7 @@
 | [0344-reverse-string](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0394-decode-string) |
 | [0541-reverse-string-ii](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0541-reverse-string-ii) |
+| [0767-reorganize-string](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0767-reorganize-string) |
 | [0771-jewels-and-stones](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0771-jewels-and-stones) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1108-defanging-an-ip-address](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/1108-defanging-an-ip-address) |
@@ -97,6 +99,7 @@
 | [0242-valid-anagram](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0347-top-k-frequent-elements) |
+| [0767-reorganize-string](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0912-sort-an-array) |
 ## Divide and Conquer
 |  |
@@ -107,6 +110,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0347-top-k-frequent-elements) |
+| [0767-reorganize-string](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -117,6 +121,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0347-top-k-frequent-elements) |
+| [0767-reorganize-string](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0767-reorganize-string) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -166,6 +171,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0011-container-with-most-water) |
+| [0767-reorganize-string](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0767-reorganize-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/1903-largest-odd-number-in-string) |
