@@ -5,7 +5,5 @@ class Solution:
             value = target - nums[i]
             if value in seen:
                 return [seen[value], i]
-            
+                
             seen[nums[i]] = i
-
-            
