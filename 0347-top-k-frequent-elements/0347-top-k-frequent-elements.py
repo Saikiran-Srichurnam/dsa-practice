@@ -1,11 +1,13 @@
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
         freq = {}
+
         for num in nums:
             if num in freq:
                 freq[num] += 1
             else:
                 freq[num] = 1
             
-            top_keys = sorted(freq, key=freq.get, reverse=True)[:k]
-        return top_keys
+        top_k_keys = sorted(freq, key=freq.get, reverse=True)[:k]
+
+        return top_k_keys
