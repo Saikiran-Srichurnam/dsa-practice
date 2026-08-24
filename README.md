@@ -185,6 +185,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0042-trapping-rain-water) |
+| [0225-implement-stack-using-queues](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0394-decode-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -245,6 +246,7 @@
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0225-implement-stack-using-queues) |
 | [0707-design-linked-list](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0707-design-linked-list) |
 ## Trie
 |  |
@@ -276,4 +278,8 @@
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0686-repeated-string-match) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
