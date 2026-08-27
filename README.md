@@ -65,6 +65,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0058-length-of-last-word) |
@@ -184,6 +185,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0232-implement-queue-using-stacks) |
@@ -257,6 +259,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Concurrency
 |  |
