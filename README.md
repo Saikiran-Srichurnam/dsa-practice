@@ -17,6 +17,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0238-product-of-array-except-self) |
@@ -56,6 +57,7 @@
 | [0007-reverse-integer](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0013-roman-to-integer) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0268-missing-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/1903-largest-odd-number-in-string) |
@@ -188,6 +190,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0232-implement-queue-using-stacks) |
