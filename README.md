@@ -25,6 +25,7 @@
 | [0283-move-zeroes](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0912-sort-an-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -45,6 +46,7 @@
 | [0242-valid-anagram](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0496-next-greater-element-i) |
 | [0767-reorganize-string](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0767-reorganize-string) |
 | [0771-jewels-and-stones](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0771-jewels-and-stones) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -196,12 +198,14 @@
 | [0232-implement-queue-using-stacks](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0394-decode-string) |
+| [0496-next-greater-element-i](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0496-next-greater-element-i) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0496-next-greater-element-i) |
 ## Sliding Window
 |  |
 | ------- |
