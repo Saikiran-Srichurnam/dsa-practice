@@ -175,6 +175,7 @@
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0268-missing-number) |
+| [0374-guess-number-higher-or-lower](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0704-binary-search) |
 ## Greedy
 |  |
@@ -306,4 +307,8 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0232-implement-queue-using-stacks) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
