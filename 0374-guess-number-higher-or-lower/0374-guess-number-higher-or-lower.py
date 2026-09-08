@@ -10,7 +10,7 @@ class Solution:
         l = 1
         r = n
         while l <= r:
-            mid = (l + r) // 2
+            mid = l + ((r - l) // 2)
             res = guess(mid)
             if res > 0:
                 l = mid + 1
