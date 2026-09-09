@@ -61,6 +61,7 @@
 | [0007-reverse-integer](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0268-missing-number) |
@@ -173,6 +174,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0374-guess-number-higher-or-lower) |
@@ -311,4 +313,8 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0374-guess-number-higher-or-lower) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
