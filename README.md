@@ -31,6 +31,7 @@
 | [0485-max-consecutive-ones](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0503-next-greater-element-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0739-daily-temperatures) |
 | [0912-sort-an-array](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0912-sort-an-array) |
@@ -187,6 +188,7 @@
 | [0268-missing-number](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0374-guess-number-higher-or-lower) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Saikiran-Srichurnam/dsa-practice/tree/master/0704-binary-search) |
 ## Greedy
 |  |
