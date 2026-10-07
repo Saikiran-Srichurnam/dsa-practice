@@ -1,19 +1,33 @@
 class Solution:
-    def trap(self, height: List[int]) -> int:
-        n = len(height)
-        leftMax = [1]*n
-        rightMax = [1]*n
+
+    def getLeftMax(self, height: list[int], n:int) -> int:
+
+        leftMax = [0] * n
 
         leftMax[0] = height[0]
         for i in range(1, n):
-            leftMax[i] = max(leftMax[i-1], height[i])
+            leftMax[i] = max(leftMax[i - 1], height[i])
         
-        rightMax[-1] = height[-1]
-        for i in range(n-2, -1, -1):
-            rightMax[i] = max(rightMax[i+1], height[i])
+        return leftMax
+    
+    def getRightMax(self, height: list[int], n:int) -> int:
 
-        water_stored = 0
+        rightMax = [0] * n
+
+        rightMax[n - 1] = height[n - 1]
+        for i in range(n - 2, -1, -1):
+            rightMax[i] = max(rightMax[i + 1], height[i])
+        
+        return rightMax
+
+    def trap(self, height: list[int]) -> int:
+        n = len(height)
+
+        leftMax = self.getLeftMax(height, n)
+        rightMax = self.getRightMax(height, n)
+
+        water = 0
         for i in range(n):
-            water_stored += min(leftMax[i], rightMax[i])- height[i]
-
-        return water_stored 
+            water += min(leftMax[i], rightMax[i]) - height[i]
+        
+        return water
